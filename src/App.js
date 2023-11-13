@@ -20,7 +20,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h3> React Crud Using Json placeholder </h3>
+      <h3> Json placeholder </h3>
       <br />
       <button onClick={handleFetchData}>Fetch Data</button>
       <div>
